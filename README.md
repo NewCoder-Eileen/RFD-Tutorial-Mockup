@@ -15,7 +15,7 @@ If it's very short, there is a good chance that the player won't be immerged in 
 ## Long Onboarding Loop
 On the other side, if the tutorial is too long, the player will be overwhelmed by the amount of content. Though they would technically be introduced to a lot of topics, it is hard for the player to retain all of the information, especially when it's all compacted and efficient as possible.
 
-#### So, what is the right balance?
+### So, what is the right balance?
 Let's get the obvious things over with first. The onboarding loop should be easy to understand, simple, and concise.
 Ideas:
 * A long tutorial that's good basically guarantees that the player will stay in the game until the tutorial is over
