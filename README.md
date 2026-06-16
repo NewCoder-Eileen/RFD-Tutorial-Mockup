@@ -35,6 +35,7 @@ Ideas:
         Player gets a sense of the vibe of the game
 
     c. Tutorial
+        PHASE 1
         Loading screen starts, ends when they click the play 
             If first time, then could be a starting animation before loading screen
         Options: Dining first, dress up first, role first
@@ -42,6 +43,13 @@ Ideas:
             Roles: Customer, Host, Server, Chef (options on ScreenGui at the beginning after joined)
             ScreenGui appears after the loading screen
             When game is first released, all roles are available, then it will be limited (capacities, maximums)
+                After some time, there will be enough of each role (ideally) so then the options will be limited and there will have to be trainings
+                    Maybe trainings?? idkkk, there's already a good building for that
+        
+        PHASE 2
+        
+
+                
 
 
         
