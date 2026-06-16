@@ -1,2 +1,21 @@
 # RFD-Tutorial-Mockup
 This is a simple python project to plan out the tutorial for RFD.
+
+Planning Stages:
+
+1. Onboarding Loop
+Notes:
+Not everything should be introduced at first. Only the main loop should be introduced. The tutorial should be easy to understand,
+straight forward, and fairly quick. Although, it's important to remark that there needs to be a good balance of length for the tutorial.
+If it's very short, there is a good chance that the player won't be immerged in the environment, won't get a good sense of the game, they are less likely of getting a valid sense of the game, and there's a chance that they won't stay in the game for as long.
+On the other side, if the tutorial is too long, the player will be overwhelmed by the amount of content. Though they would technically
+be introduced to a lot of topics, it is hard for the player to retain all of the information, especially when it's all compacted and efficient as possible.
+
+    a. Loading screen
+        Animation of 2 people (RoyaleFineDining and RoyalFineAlt) sitting at a table outside, with a beautiful view
+        of buildings behind them. Should be cinematic, energetic music.
+    b. Welcome to Royal Fine Dining
+        First view of the game, curious about buildings and see the light and path of the main restaurant.
+        Leading path and light gives the player a good sense of direction, they won't be confused.
+        Overwhelmed in a good way?
+        Player gets a sense of the vibe of the game
