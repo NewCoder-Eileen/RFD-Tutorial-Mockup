@@ -3,13 +3,19 @@ This is a simple python project to plan out the tutorial for RFD.
 
 Planning Stages:
 
-1. Onboarding Loop
-Notes:
+# 1. Onboarding Loop
+## Notes:
 Not everything should be introduced at first. Only the main loop should be introduced. The tutorial should be easy to understand,
-straight forward, and fairly quick. Although, it's important to remark that there needs to be a good balance of length for the tutorial.
-If it's very short, there is a good chance that the player won't be immerged in the environment, won't get a good sense of the game, they are less likely of getting a valid sense of the game, and there's a chance that they won't stay in the game for as long.
-On the other side, if the tutorial is too long, the player will be overwhelmed by the amount of content. Though they would technically
-be introduced to a lot of topics, it is hard for the player to retain all of the information, especially when it's all compacted and efficient as possible.
+straight forward, and fairly quick.
+
+Although, it's important to remark that there needs to be a good balance of length for the tutorial.
+
+If it's very short, there is a good chance that the player won't be immerged in the environment, won't get a good sense of the game, are less likely of getting a valid sense of the game, and have a chance of not staying in the game for as long.
+
+On the other side, if the tutorial is too long, the player will be overwhelmed by the amount of content. Though they would technically be introduced to a lot of topics, it is hard for the player to retain all of the information, especially when it's all compacted and efficient as possible.
+
+### So, what is the right balanace?
+Let's get the obvious things over with first. The onboarding loop should be easy to understand, simple, and consice.
 
     a. Loading screen
         Animation of 2 people (RoyaleFineDining and RoyalFineAlt) sitting at a table outside, with a beautiful view
