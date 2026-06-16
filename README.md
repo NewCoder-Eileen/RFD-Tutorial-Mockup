@@ -35,12 +35,15 @@ Ideas:
         Player gets a sense of the vibe of the game
 
     c. Tutorial
+        Loading screen starts, ends when they click the play 
+            If first time, then could be a starting animation before loading screen
         Options: Dining first, dress up first, role first
             Choice: Role first
             Roles: Customer, Host, Server, Chef (options on ScreenGui at the beginning after joined)
             ScreenGui appears after the loading screen
             When game is first released, all roles are available, then it will be limited (capacities, maximums)
-            
+
+
         
 
 
