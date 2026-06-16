@@ -19,7 +19,7 @@ On the other side, if the tutorial is too long, the player will be overwhelmed b
 Let's get the obvious things over with first. The onboarding loop should be easy to understand, simple, and concise.
 Ideas:
 * A long tutorial that's good basically guarantees that the player will stay in the game until the tutorial is over
-    (Not guaranteed but more retention overall)
+    * (Not guaranteed but more retention overall)
 * Can start with a quick and easy tutorial to understand the main point of the game (dining), it can progress from there
 
 
