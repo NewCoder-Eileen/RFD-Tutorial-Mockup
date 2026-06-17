@@ -44,9 +44,64 @@ Ideas:
             ScreenGui appears after the loading screen
             When game is first released, all roles are available, then it will be limited (capacities, maximums)
                 After some time, there will be enough of each role (ideally) so then the options will be limited and there will have to be trainings
-                    Maybe trainings?? idkkk, there's already a good building for that
+                    Maybe trainings??
         
-        PHASE 2
+        PHASE 2 --> Have role now
+        Dedicated tutorials for each role
+
+        Customer/first time:
+        Should be very short
+        1. Guidance to walk straight into restaurant
+        2. Player should choose to either do solo dining or group dining
+            --> not everybody is playing with friends/wants to dine with friends
+        3. If group dining/live choice:
+            Walk into group lane and interact with a host
+                Host should have automatic interaction (not with chat, fast)
+
+                Issue: What if a group is waiting for too long?
+                    Are there enough hosts?
+                        Balancing the roles could help balance it out, but then another questions arrives:
+                        What if the hosts leave? Then what?
+                            Lets just hope they handle that themselves for now, not sure about exact solutions
+                            Possible solution: Robot host, or they can do it themselves after a timer
+                                Warning: Doing it themselved does not mean that they claim their group from the waiting list, as they do not have training for that and could possibly prevent other groups from dining
+                             
+            Choose options on HostGUI (ScreenGui), for table/group
+                Number of people
+                Location
+                People
+            Submit form
+            Invitation sent to people in group
+                --> To see if they want to be in the group
+                This an issue: People might take too long to accept
+                    Solution: Add a timer for 20 seconds
+                After all players chose an option or after 20 seconds:
+                    Information is send to Waiting List (SurfaceGui)
+            Host claims group from Waiting List (most long, on top)
+                Host takes group to their table
+                    With arrows
+                    ScreenGui (for info about the group)
+                    Then, give guidance to host to return back to their station
+                        Timer, teleportation after 20 seconds
+                Players take a seat at their table
+                    Their ScreenGui disappears
+            Server claims group from Tables List (SurfaceGui), (ASAP)
+                Table gets added to their Claimed Tables Menu
+                They get guidance to take a certain amount of menus (depends on number of people in the group, modules)
+                Once menus are taken, the table they have to be delivered to becomes highlighted
+            Server gives menus to players
+                --> Guidance if its their first time or if taking too long or idk
+                
+
+                
+                
+                    
+                        
+                        
+            
+
+
+
         
 
                 
